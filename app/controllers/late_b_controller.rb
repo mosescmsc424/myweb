@@ -1,0 +1,2 @@
+class LateBController < ApplicationController
+end

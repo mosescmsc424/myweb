@@ -1,0 +1,2 @@
+module LateBHelper
+end
